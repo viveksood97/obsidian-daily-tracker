@@ -1,0 +1,7 @@
+{
+    "year_format": "%Y",
+    "month_format": "%m-%B",
+    "date_time_format": "%Y-%m-%d-%A",
+    "path_to_master_todos": "/path/to/todos",
+    "path_to_daily_todos": "/path/to/config/obsidian/Work/TimeStamps"
+}
